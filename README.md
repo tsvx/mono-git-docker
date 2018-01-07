@@ -14,4 +14,4 @@ For using BitBucket Pipelines with my .NET projects with git submodules. I.e., a
 This is my first Docker image.
 
 ## Thanks
-Inpired by https://github.com/markvnext/mono-git-docker
+Inspired by https://github.com/markvnext/mono-git-docker
